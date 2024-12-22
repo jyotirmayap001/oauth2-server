@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.oauth</groupId>
-	<artifactId>OAuthServer</artifactId>
+	<artifactId>oauth2-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>OAuthServer</name>
-	<description>OAuth2Server</description>
+	<name>oauth2-server</name>
+	<description>oauth2-server</description>
 	<url/>
 	<licenses>
 		<license/>

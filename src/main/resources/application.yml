@@ -1,0 +1,15 @@
+client:
+    id: NSjdziqWGTWHENlgsFfUKErUVbCGLa
+    secret: LvaxCqfjSHyItBYtXhgVmelaWRnwhY
+    
+token:
+    issuer:
+        uri: http://localhost:8083
+        #http://13.236.136.227:
+cors:
+    allowed:
+        uri: http://localhost:8083
+        
+        
+server:
+  port: 8083
