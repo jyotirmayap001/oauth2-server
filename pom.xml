@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.oauth</groupId>
 	<artifactId>oauth2-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>oauth2-server</name>
 	<description>oauth2-server</description>
 	<url/>
