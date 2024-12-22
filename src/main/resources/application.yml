@@ -4,11 +4,11 @@ client:
     
 token:
     issuer:
-        uri: http://localhost:8083
-        #http://13.236.136.227:
+        uri: http://13.236.136.227:8083
+        
 cors:
     allowed:
-        uri: http://localhost:8083
+        uri: http://13.236.136.227:32649
         
         
 server:
